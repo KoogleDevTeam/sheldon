@@ -10,6 +10,6 @@ body {
 }
 
 #about {
-    color: white;
+    color: white !important;
     font-size: larger;
 }
