@@ -5,3 +5,11 @@ body {
     font-family: 'Courier New', Courier, monospace;
 }
 
+#PortPic {
+    border-radius: 100%;
+}
+
+#about {
+    color: white;
+    font-size: larger;
+}
